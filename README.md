@@ -1,2 +1,3 @@
-# ComicsStory
-Comics Story Representation System Based on Genre
+# Comics Story Representation Based on Genre
+
+Comic and manga books are usually classified into broad categories called ``genres'' according to their content such as comedy, horror, science fiction, etc. However, giving only one genre to one comic cannot express the detailed difference of the story. We propose a system for generating comics story representation as a sub-sequence of genres. We use a deep neural network to classify each page into the corresponding genre. 
