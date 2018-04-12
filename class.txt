@@ -1,0 +1,28 @@
+Label
+ 0:humor
+ 1:loveromance
+ 2:fantasy
+ 3:battle
+ 4:sciencefiction
+ 5:romanticcomedy
+ 6:sports
+ 7:historicaldrama
+ 8:animal
+ 9:four-framecartoons
+10:suspence
+11:horror
+
+31:undefined
+88:no genre
+
+Type
+c:NoNarrative(cover illustration)
+i:NoNarrative(blank, colophon)
+b:beginning of the chapter
+e:end of the chapter
+
+
+* note *
+In the column "label(4+2)" in the excel sheet, only 0, 1, 2, 3, 31, and 88 can be selected as a label.
+In the column "label(11+2)" in the excel sheet, all labels can be selected.
+Each page has been labeled by only one person. Most of pages has been labeled by the same person.
