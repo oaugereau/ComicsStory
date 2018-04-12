@@ -12,7 +12,7 @@ For one book, the obtained representation will be like this:
 Each book can then be represented as a specific sequence of genre. 
 
 
-We used comics images from the dataset Manga109 which are freely available for research purpose [2] and labeled 5003 single pages of this dataset. These labels will be uploaded later.
+We used comics images from the dataset Manga109 which are freely available for research purpose [2] and labeled 5003 single pages of this dataset. These labels are provided in the xlsx format (one file per genre, where the genre of a book is defined in the Manga109 dataset). Each xlsx file contains the labels for each page of several books. The file [class.txt](class.txt) contains information about the labels.
 
 
 [1] Yuki Daiku, Motoi Iwata, Olivier Augereau and Koichi Kise "Comics Story Representation System Based on Genre", 13th IAPR International Workshop on Document Analysis Systems, 2018.
